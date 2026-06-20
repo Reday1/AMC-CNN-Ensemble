@@ -1,0 +1,21 @@
+# Dataset (611MB — too large for git, regenerate by downloading separately)
+RML2016.10a_dict.pkl
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
